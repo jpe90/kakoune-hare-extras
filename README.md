@@ -1,3 +1,8 @@
+# Features
+
+- Configuration option `hare_indent_with_tabs` to [indent hare files with tabs](https://harelang.org/style/#a-general-conventions) with > and < in normal mode - Defaults to OFF
+- `haredoc` command to show documentation for the identifier under the cursor
+
 # Installation
 
 ## [plug.kak](https://github.com/andreyorst/plug.kak)
